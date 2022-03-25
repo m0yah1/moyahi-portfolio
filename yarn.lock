@@ -769,6 +769,16 @@
     "picocolors" "^1.0.0"
     "source-map-js" "^1.0.2"
 
+"prettier-plugin-md-nocjsp@^1.2.0":
+  "integrity" "sha512-ShX2dd8XoE6bi1zlY3U4yKJl/MN5LIdMDjVr//n/Dy6vWOWZdMqSFYeA7qcETTfUj6bTP4VfULDcQbgaJcgJKg=="
+  "resolved" "https://registry.npmjs.org/prettier-plugin-md-nocjsp/-/prettier-plugin-md-nocjsp-1.2.0.tgz"
+  "version" "1.2.0"
+
+"prettier@^2.6.1":
+  "integrity" "sha512-8UVbTBYGwN37Bs9LERmxCPjdvPxlEowx2urIL6urHzdb3SDq4B/Z6xLFCblrSnE4iKWcS6ziJ3aOYrc1kz/E2A=="
+  "resolved" "https://registry.npmjs.org/prettier/-/prettier-2.6.1.tgz"
+  "version" "2.6.1"
+
 "queue-microtask@^1.2.2":
   "integrity" "sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A=="
   "resolved" "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz"
